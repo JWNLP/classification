@@ -1,7 +1,6 @@
 # classification
 <br>
-<br>
-<br>
+
 
 ## acc = 92%
 <br>
