@@ -15,5 +15,8 @@ nrows = 3000
 [4] acc = 55, max-length = 256, learning-rate = 5e-5, drop-out = 0.1, epochs = 4, batch-size =32
 <br>
 [5] acc = 56, max-length = 256, learning-rate = 5e-5, drop-out = 0.1, epochs = 4, batch-size =32
+
+<br>
+<br>
 ## acc = 89%
 <br>
